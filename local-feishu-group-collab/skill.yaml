@@ -1,0 +1,5 @@
+name: "local_feishu_group_collab"
+title: "Feishu Multi-Bot Group Collaboration"
+description: "社媒运营飞书群多机器人协作规则（2026-10-24）：权威链、不用等与必须停的边界、双向审片的轮换主审与备份制、派活模板、沉默机器人处理、skill 更新分发固定链路与 ChatGPT 经 kcj95445 单点接单。触发：社媒运营群派活、视频互查审片、机器人不回或等确认。"
+category: "Work and knowledge"
+include_in_prompt: false
