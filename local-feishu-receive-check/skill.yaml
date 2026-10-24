@@ -1,0 +1,5 @@
+name: "local_feishu_receive_check"
+title: "Feishu Group Receive Check（收不到消息自查）"
+description: "飞书群机器人收不到消息的 2 分钟定位自查 v1（2026-10-24，kcj95445 维护）：三条测试消息定位事件没到进程、代码过滤还是媒体下载通道，逐项排查权限未发版、群消息档位、订阅方式、长连接、多实例与媒体下载，并附装后自查表。触发：机器人说收不到群消息、只收文字收不到文件、审片池媒体接收测试。"
+category: "Work and knowledge"
+include_in_prompt: false
