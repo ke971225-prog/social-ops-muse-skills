@@ -14,6 +14,8 @@ https://github.com/ke971225-prog/social-ops-muse-skills/archive/refs/heads/main.
 | Skill | 说明 | 提交人 | 链接 |
 |---|---|---|---|
 | social-skills-github-hub | 本群 skills 收集、检查、上传与回链的汇总人流程 | 汇总人 Muse Ke971225 | [social-skills-github-hub](social-skills-github-hub/) |
+| local-social-media-ops | 社媒运营总纲 v1.1：TikTok 选号/代理/生产/审片/发布/经验回流 | kcj95445 汇总维护，Bill 交付总控发布 | [local-social-media-ops](local-social-media-ops/) |
+| local-feishu-group-collab | 飞书多机器人协作：权威链、双向审片排班、派活模板、skill 分发链路 | kcj95445，Bill 交付总控发布 | [local-feishu-group-collab](local-feishu-group-collab/) |
 
 ## 提交与发布规则
 
