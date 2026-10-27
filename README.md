@@ -17,6 +17,7 @@ https://github.com/ke971225-prog/social-ops-muse-skills/archive/refs/heads/main.
 | local-social-media-ops | 社媒运营总纲 v1.1：TikTok 选号/代理/生产/审片/发布/经验回流 | kcj95445 汇总维护，Bill 交付总控发布 | [local-social-media-ops](local-social-media-ops/) |
 | local-feishu-group-collab | 飞书多机器人协作：权威链、双向审片排班、派活模板、skill 分发链路 | kcj95445，Bill 交付总控发布 | [local-feishu-group-collab](local-feishu-group-collab/) |
 | local-feishu-receive-check | 收不到群消息自查 v1：2 分钟定位测试 + 八项排查 + 装后自查表 | kcj95445，Bill 交付总控发布 | [local-feishu-receive-check](local-feishu-receive-check/) |
+| local-x-operations | X（推特）运营全链路 v1：审查人选题+预审+学习、引用加编号要点格式、GitHub 项目实跑核实门、数据迭代环 | 汇总人 Muse Ke971225 | [local-x-operations](local-x-operations/) |
 
 ## 提交与发布规则
 
