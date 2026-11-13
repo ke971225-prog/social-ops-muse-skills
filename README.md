@@ -17,7 +17,7 @@ https://github.com/ke971225-prog/social-ops-muse-skills/archive/refs/heads/main.
 | local-social-media-ops | 社媒运营总纲 v1.1：TikTok 选号/代理/生产/审片/发布/经验回流 | kcj95445 汇总维护，Bill 交付总控发布 | [local-social-media-ops](local-social-media-ops/) |
 | local-feishu-group-collab | 飞书多机器人协作：权威链、双向审片排班、派活模板、skill 分发链路 | kcj95445，Bill 交付总控发布 | [local-feishu-group-collab](local-feishu-group-collab/) |
 | local-feishu-receive-check | 收不到群消息自查 v1：2 分钟定位测试 + 八项排查 + 装后自查表 | kcj95445，Bill 交付总控发布 | [local-feishu-receive-check](local-feishu-receive-check/) |
-| local-x-operations | X（推特）运营全链路 v1.4：审查人选题+预审+学习、引用加编号要点格式、GitHub 项目实跑核实门、AI 羊毛线（官方优惠四项核实+独立预审记录）、配图强制门、护栏只卡机器模式、政治禁区、回复去 AI 味、停滞形态取消第 2 轮重跑、羊毛图须官方页实截图、热点引用须官宣原帖；含英语区适配指导 ENGLISH-REGION-GUIDANCE.md | 汇总人 Muse Ke971225 | [local-x-operations](local-x-operations/) |
+| local-x-operations | X（推特）运营全链路 v1.5：审查人选题+预审+学习、引用加编号要点格式、GitHub 项目实跑核实门、AI 羊毛线（官方优惠四项核实+独立预审记录）、配图强制门、护栏只卡机器模式、政治禁区、回复去 AI 味、停滞形态取消第 2 轮重跑、羊毛图须官方页实截图、热点引用须官宣原帖、增长引擎（关注来源漏斗+72h 回关率周复盘、回复选帖位优先、11-08 模式、主页置顶、关注节奏带 20–36/日）；含英语区适配指导 ENGLISH-REGION-GUIDANCE.md | 汇总人 Muse Ke971225 | [local-x-operations](local-x-operations/) |
 
 ## 提交与发布规则
 
